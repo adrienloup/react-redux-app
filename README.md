@@ -1,5 +1,3 @@
-> A React.js project
-
 ## Build Setup
 ```
 # install dependencies
