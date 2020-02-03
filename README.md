@@ -4,7 +4,7 @@
 npm i -D
 
 # dev server at http://localhost:3000
-npm run dev
+npm run start
 
 # build for production with minification
 npm run build
